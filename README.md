@@ -18,7 +18,7 @@ Click [here]() to view the web page
 
 ## Home Page
 
-![image](https://github.com/WMCharles/Mini_YTube/blob/main/index-html.png)
+![image](https://github.com/WMCharles/Mini_YTube/blob/main/landing.png)
 
 ## Installation
 
