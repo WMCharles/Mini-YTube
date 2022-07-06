@@ -14,7 +14,7 @@
 
 ## Live Demo
 
-Click [here]() to view the web page
+Click [here](https://https://wmcharles.github.io/Mini-YTube/) to view the web page
 
 ## Home Page
 
